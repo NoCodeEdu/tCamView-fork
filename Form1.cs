@@ -712,7 +712,6 @@ namespace tCamView
                 "Credits:\nAForge.NET https://github.com/andrewkirillov/AForge.NET\n" +
                 "--------------------------------\n" +
                 "Added love from Claude AI and NoCodeEdu\n" +
-                "--------------------------------\n" +
                 "https://github.com/NoCodeEdu/tCamView-fork/"
 
             );
