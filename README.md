@@ -81,4 +81,4 @@ Published under the GNU GPLv3 license. (For details, see license.txt)
 
 ## Credits
 
-- AForge.NET  http://www.aforgenet.com/  (license: lgpl-3.0.txt, gpl-3.0.txt)
+- AForge.NET (license: lgpl-3.0.txt, gpl-3.0.txt)
