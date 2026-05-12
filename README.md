@@ -1,6 +1,10 @@
-This fork was created to save the last used settings on exit. The idea was to enable the program to start with Windows without needing to configure settings each time.
+## This fork was created to save the last used settings on exit. The idea was to enable the program to start with Windows without needing to configure settings each time.
 
-I am not a developer and have no background in application development; all updated code was generated with AI.
+## I am not a developer and have no background in application development; all updated code was generated with AI.
+
+
+
+
 
 ## tCamView
 
